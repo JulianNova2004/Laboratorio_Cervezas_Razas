@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selected</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+
+    <string name="find_dog">Find your dog!</string>
+    <string name="pets">No dog breed chosen</string>
+    <string-array name="dog_breed">
+        <item>pastores</item>
+        <item>pinscher</item>
+    </string-array>
+
+</resources>
