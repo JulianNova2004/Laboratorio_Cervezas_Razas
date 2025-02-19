@@ -15,7 +15,7 @@ public class BeerExpert {
         List<String> beerList = new ArrayList<>();
         beerList.add("Estos son los resultados de su busqueda:");
         switch(color){
-            case "ligth":
+            case "light":
                 beerList.add("Club Colombia Dorada");
                 beerList.add("Jali Pale Ale");
                 beerList.add("Gout Stout");
